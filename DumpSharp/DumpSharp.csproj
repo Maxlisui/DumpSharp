@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Maxlisui.DumpSharp</PackageId>
+    <Authors>Maxlisui</Authors>
+    <Company />
+    <Description>Small library which helps to dump objects.</Description>
+    <PackageProjectUrl />
+    <RepositoryUrl>https://github.com/Maxlisui/DumpSharp</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
